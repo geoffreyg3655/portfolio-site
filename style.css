@@ -28,3 +28,20 @@ a {
   color: #0077cc;
   text-decoration: none;
 }
+.projects {
+  padding: 20px;
+}
+
+.projects ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.projects a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+}
